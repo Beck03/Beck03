@@ -1,4 +1,4 @@
-### ¡¡¡Hola 🌍 mi nombre es Rebeca Sánchez 👩🏻‍💻💻👨‍👩‍👧🧶🐈🌴🥥🌊!!!<br/>
+### ¡¡¡Hola 🌍 mi nombre es Rebeca Sánchez 👩🏻‍💻👨‍👩‍👧🧶🐈🐈‍🌴🥥🌊!!!<br/>
 
 	
 Front -End Developer
@@ -12,7 +12,7 @@ Siempre he sentido un interés por los detalles y la practicidad en mi vida. Al 
 * 🚀  Mi último trabajo es [App web Just Notes](https://just-notes-e4687.web.app/)
 * 🧠  Estoy aprendiendo React.js y JavaScript
 
-### Skills
+### 💾 Skills
 
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -51,7 +51,7 @@ Siempre he sentido un interés por los detalles y la practicidad en mi vida. Al 
 </p>
 ---------------------------------------------------------------------------------------------------------------------
 
-### Contacto
+### ☎️ Contacto
 
 <p align="left"> <a href="https://www.github.com/Beck03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rebeca-alejandra-sanchez/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 

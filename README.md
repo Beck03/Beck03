@@ -1,4 +1,4 @@
-### ¡¡¡Hola 🌍 mi nombre es Rebeca Sánchez 👩🏻‍💻👨‍👩‍👧🧶🐈🐈‍🌴🥥🌊!!!<br/>
+### ¡¡¡Hola 🌍 mi nombre es Rebeca Sánchez 👩🏻‍💻👨‍👩‍👧🧶🐈🐈‍🌺🍀🪴🌹!!!<br/>
 
 	
 Front -End Developer
@@ -7,7 +7,7 @@ Front -End Developer
 
 Siempre he sentido un interés por los detalles y la practicidad en mi vida. Al elegir mi carrera primero me plantee el camino de la medicina, en la búsqueda de un enfoque estético y funcional. Pero diferentes situaciones hicieron que me encontrara con la programación, e identifiqué que a través de ella podía aplicar mis gustos e intereses personales y convertirlos en profesionales. Hoy día como desarrolladora front-end me siento realizada al poder seguir aplicando esos detalles visuales y funcionales ahora en código, para de esta forma contribuir al mundo a través de la tecnología. 
 
-* 🌎  Vivo en Acapulco 
+* 🌎  Vivo en Cuernavaca 
 * ✉️  Me puedes contactar en [rbk.alex1997@gmail.com](mailto:rbk.alex1997@gmail.com)
 * 🚀  Mi último trabajo es [App web Just Notes](https://just-notes-e4687.web.app/)
 * 🧠  Estoy aprendiendo React.js y JavaScript

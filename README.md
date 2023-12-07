@@ -1,4 +1,4 @@
-### ¡¡¡Hola 🌍 mi nombre es Rebeca Sánchez 👩🏻‍💻👨‍👩‍👧🧶🐈🐈‍🌺🍀🪴🌹!!!<br/>
+### ¡¡¡Hola 🌍 mi nombre es Rebeca Sánchez 👩🏻‍💻🧶🐈🐈‍🌺🍀🪴🌹!!!<br/>
 
 	
 Front -End Developer
